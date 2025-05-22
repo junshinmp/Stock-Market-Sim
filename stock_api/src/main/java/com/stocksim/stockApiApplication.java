@@ -1,3 +1,9 @@
+/**
+ * @file stockApiApplication.java
+ * Inititiates the Spring-boot application to run, connecting to
+ * specified server within the UI.
+ */
+
 package com.stocksim;
 
 import org.springframework.boot.SpringApplication;
