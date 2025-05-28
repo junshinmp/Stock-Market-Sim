@@ -10,8 +10,7 @@
 
 package com.stocksim.viewmodel;
 
-import 
-
-public class PolygonService {
-    
+class PolygonService {
+    private String key = " ";
+    private String 
 }
